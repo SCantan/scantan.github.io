@@ -1,2 +1,2 @@
-# scantan.github.io
+# Simon Cantan
 All of my current projects.
