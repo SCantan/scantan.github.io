@@ -1,5 +1,7 @@
 # Simon Cantan
-I'm an engineer currently working in ASP.NET C# on the server side and React on the client side. My current project is the Storm System, which is a system designed to allow web developers to quickly prototype ideas for websites without having to create the backbone of the system.
+I'm an engineer currently working in ASP.NET C# on the server side and React on the client side. 
+
+My current project is the Storm System, which is a system designed to allow web developers to quickly prototype ideas for websites without having to create the backbone of the system.
 
 ## Storm System
 The Storm System is a system designed to allow the rapid creation of registration and reporting systems.
