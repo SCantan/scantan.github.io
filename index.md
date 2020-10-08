@@ -5,4 +5,6 @@ Hi there, I'm Simon Cantan, a web developer. I make websites and tools to help a
 
 Genre Trends
 ---
+Genre Trends tracks the best-selling sub-genres within a genre.
 
+https://genretrends.com
