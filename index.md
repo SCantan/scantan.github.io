@@ -7,4 +7,4 @@ Genre Trends
 ---
 Genre Trends tracks the best-selling sub-genres within a genre.
 
-https://genretrends.com
+
